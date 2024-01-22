@@ -1,5 +1,5 @@
 # thinter
-a TODO app that appears to function. (its also oxidized)
+a TODO app that appears to function. (it's also oxidized)
 
 
 Who needs the following?
